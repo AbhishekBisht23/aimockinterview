@@ -1,5 +1,5 @@
 // require('dotenv').config();
-import.meta.env
+// import.meta.env
 import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
@@ -13,7 +13,7 @@ import HomePage from './pages/HomePage.jsx'
 import ResumeUploadPage from './pages/ResumeUploadPage.jsx'
 import InterviewSelection from './pages/InterviewSelection.jsx'
 import ResumeBasedInterview from './pages/ResumeBasedInterview.jsx'
-import GithubRepoPage from './pages/githubrepopage.jsx'
+import GithubRepoPage from './pages/GithubRepoRage.jsx'
 import CodingBasedPage from './pages/Codingbasedpage.jsx'
 const router = createBrowserRouter(
   createRoutesFromElements(
