@@ -13,7 +13,7 @@ import HomePage from './pages/HomePage.jsx'
 import ResumeUploadPage from './pages/ResumeUploadPage.jsx'
 import InterviewSelection from './pages/InterviewSelection.jsx'
 import ResumeBasedInterview from './pages/ResumeBasedInterview.jsx'
-import GithubRepoPage from './pages/GithubRepoRage.jsx'
+import GithubRepoPage from './pages/GithubRepoPage.jsx'
 import CodingBasedPage from './pages/CodingBasedPage.jsx'
 const router = createBrowserRouter(
   createRoutesFromElements(
